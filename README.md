@@ -2,9 +2,9 @@
 
 # Hey, I'm Adhitya Naufal 👋
 
-### AI Agent Enthusiast · Web3 Builder · Automation Developer
+### Web & App Developer · AI Enthusiast · Automation Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Building+AI+Agents+%F0%9F%A4%96;Exploring+Web3+%E2%9B%93;Automating+Everything+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Building+Web+%26+Apps+%F0%9F%92%BB;Learning+AI+%26+Agents+%F0%9F%A4%96;Automating+Everything+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,8 +12,9 @@
 
 ## 🧠 About Me
 
-- 🤖 Building **AI Agents** that actually work
-- ⛓️ Exploring **Web3 & Blockchain** (Swisstronik, Sui, Polymer)
+- 🔧 Building **Web & App** solutions that solve real problems
+- 🤖 Learning **AI & AI Agents** — building smart automation
+- ⛡️ Exploring **Web3** out of curiosity (crypto enthusiast, not a builder)
 - 🔧 Automating workflows with **Python & TypeScript**
 - 🌍 Based in **Indonesia** 🇮🇩
 - 💡 Always learning, always shipping
@@ -27,7 +28,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -67,7 +67,8 @@
 | [🤖 konsultan-agent](https://github.com/adhityanaufal26/konsultan-agent) | AI Agent for consulting & automation | Python |
 | [💰 app-money-manager](https://github.com/adhityanaufal26/app-money-manager) | Personal finance management app | JavaScript |
 | [🌾 petani-makmur](https://github.com/adhityanaufal26/petani-makmur) | Agricultural platform | TypeScript |
-| [⛓️ swisstroniktask3](https://github.com/adhityanaufal26/swisstroniktask3) | Blockchain smart contract tasks | TypeScript |
+| [🤖 bot-manage-money](https://github.com/adhityanaufal26/bot-manage-money) | Money management bot | Python |
+| [📊 finance-tracker](https://github.com/adhityanaufal26/finance-tracker) | Personal finance tracker app | Kotlin |
 
 ---
 
