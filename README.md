@@ -4,7 +4,7 @@
 
 ### Web & App Developer · AI Enthusiast · Automation Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Web+%26+App+Developer+%F0%9F%92%BB;AI+%26+Agent+Builder+%F0%9F%A4%96;Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Web+%26+App+Developer+%F0%9F%92%BB;AI+%26+Agent+Builder+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
